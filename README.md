@@ -1,10 +1,8 @@
-![Raceflight](docs/assets/raceflight/raceflight-logo.png)
+![Graylet](docs/assets/raceflight/graylet_icon.png)
 
 Race prepared version of the cleanflight flight-controller - flight controllers are used to fly multi-rotor craft and fixed wing craft.
 
-This fork differs from cleanflight in that it is focused towards racing / acro and adds support for STM32F4 targets.
-
-Its currently being developed with the help of VisualGDB, http://www.visualgdb.com
+This fork differs from cleanflight and raceflight in that it adds support for STM32F7 targets.
 
 ## Additional Features
 
